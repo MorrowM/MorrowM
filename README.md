@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 <!--
 **MorrowM/MorrowM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Mathematics student with an interest in functional programming!
+
+- If I'm not doing coursework or studying for exams I'm probably cooking up some cursed Haskell code. (Did you know that you can have compile-time verified string literals with `OverloadedLabels` in GHC 9.6?) 
+
+- I enjoy hanging out in the [functional programming Discord server](https://discord.gg/K6XHBSh). 
+
+- I also have a [blog](http://www.morrowm.com/) that I don't update often enough.
