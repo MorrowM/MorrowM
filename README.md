@@ -1,4 +1,4 @@
-### Greetings 👋
+### Hi there! 👋
 
 <!--
 **MorrowM/MorrowM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ I'm a Mathematics student with an interest in functional programming!
 
 - I enjoy hanging out in the [functional programming Discord server](https://discord.gg/K6XHBSh). 
 
-- I also have a [blog](http://www.morrowm.com/) that I don't update often enough.
+- I also have a [blog](http://www.morrowm.com/) (that I really should post to more often).
